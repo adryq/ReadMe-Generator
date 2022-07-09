@@ -34,7 +34,7 @@ const questions = [
     },
     {
         type:"input",
-        name:"Contributions",
+        name:"Contributing",
         message:"List any collaborators or third party assets used",
     },
     {
