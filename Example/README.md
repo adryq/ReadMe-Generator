@@ -1,5 +1,5 @@
-# ReadMe Generator
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# Professional README Generator
+  [![Apache License](https://img.shields.io/badge/License-Apachi-brightgreen)](https://choosealicense.com/licenses/apache-2.0/)
   
   ## Description
   A command line app that generates a professional README.md file from a user's input.
@@ -13,17 +13,17 @@
   - [Questions](#Questions)
 
   ## Installation
-  Install Inquirer
+  Inquirer package
 
   ## Usage
-  Clone repo, install inquirer, run node index.js
+  Node index.js
 
   ## Contributors
   
 
   ## License
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
-  [Boost License](https://choosealicense.com/licenses/bsl-1.0/)
+  [![Apache License](https://img.shields.io/badge/License-Apachi-brightgreen)](https://choosealicense.com/licenses/apache-2.0/)
+  [Apache License](https://choosealicense.com/licenses/apache-2.0/)
 
 
   ## Tests

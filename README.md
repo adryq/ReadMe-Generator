@@ -24,3 +24,4 @@ THEN I am taken to the corresponding section of the README
 
 USAGE:
 A command-line app that generates a professional README.md file from user's input using Inquirer package.
+
