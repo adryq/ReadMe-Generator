@@ -25,3 +25,11 @@ THEN I am taken to the corresponding section of the README
 USAGE:
 A command-line app that generates a professional README.md file from user's input using Inquirer package.
 
+Demo:
+
+https://user-images.githubusercontent.com/101481761/178129397-407b5225-a499-4d79-b34c-2d2d7290554e.mp4
+
+Screenshot:
+<img width="1110" alt="Screen Shot 2022-07-09 at 10 56 00 PM" src="https://user-images.githubusercontent.com/101481761/178129434-88e6f253-d0da-4b18-8149-d4e4297a7adc.png">
+
+
