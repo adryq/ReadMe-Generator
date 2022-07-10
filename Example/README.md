@@ -1,8 +1,8 @@
-# d
+# ReadMe Generator
   [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   
   ## Description
-  d
+  A command line app that generates a professional README.md file from a user's input.
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -13,13 +13,13 @@
   - [Questions](#Questions)
 
   ## Installation
-  d
+  Install Inquirer
 
   ## Usage
-  
+  Clone repo, install inquirer, run node index.js
 
   ## Contributors
-  d
+  
 
   ## License
   [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
@@ -27,11 +27,12 @@
 
 
   ## Tests
+  To run this test please use:
   undefined
 
   ## Questions
   
   If you have any questions/issues, please contact:
   
-  GitHub: http://github.com/undefined
-  Email: d
+  GitHub: http://github.com/adryq
+  Email: adryq95@gmail.com
