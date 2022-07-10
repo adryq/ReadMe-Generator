@@ -19,11 +19,6 @@ const questions = [
     },
     {
         type:"input",
-        name:"Table of Contents",
-        message:"Include a Table of Contents",
-    },
-    {
-        type:"input",
         name:"Installation",
         message:"What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.",
     },
@@ -35,13 +30,13 @@ const questions = [
     {
         type:"input",
         name:"Contributing",
-        message:"List any collaborators or third party assets used",
+        message:"List any collaborators or third party assets used:",
     },
     {
-        type:"input",
+        type:"list",
         name:"License",
         message:"What license is being used?",
-        choices: ["MIT", "APACHE_2.0", "Boost", "None"]
+        choices: ["MIT", "APACHE_2.0", "Boost", "None"],
     },
     {
         type:"input",

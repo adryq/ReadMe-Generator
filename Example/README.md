@@ -1,8 +1,8 @@
-# ReadMe Generator
-  [![MIT License](https://img.shields.io/badge/License-MIT-blue)](https://choosealicense.com/licenses/mit/)
+# d
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   
   ## Description
-  blablabalbalablabalbalba
+  d
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -13,25 +13,25 @@
   - [Questions](#Questions)
 
   ## Installation
-  first then after
+  d
 
   ## Usage
-  usagebfjbvsldjvs
+  
 
   ## Contributors
-  none
+  d
 
   ## License
-  [![MIT License](https://img.shields.io/badge/License-MIT-blue)](https://choosealicense.com/licenses/mit/)
-  [MIT License](https://choosealicense.com/licenses/mit/)
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [Boost License](https://choosealicense.com/licenses/bsl-1.0/)
 
 
   ## Tests
   undefined
 
   ## Questions
+  
   If you have any questions/issues, please contact:
   
   GitHub: http://github.com/undefined
-  
-  Email: adryq95@gmail.com
+  Email: d

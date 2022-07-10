@@ -67,13 +67,14 @@ function generateMarkdown(data) {
 
 
   ## Tests
+  To run this test please use:
   ${data.Tests}
 
   ## Questions
   
   If you have any questions/issues, please contact:
   
-  GitHub: http://github.com/${data.Username}
+  GitHub: http://github.com/${data.GitHub}
   Email: ${data.Email}
 `;
 }
